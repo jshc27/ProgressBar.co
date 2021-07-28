@@ -15,4 +15,8 @@ Falta agregar
 
 <img src="">
 
+## License
+
+The MIT license (MIT)
+
 
