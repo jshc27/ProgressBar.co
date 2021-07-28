@@ -1,4 +1,4 @@
-# ProgressBar.co
+# :battery: ProgressBar.co
 Progress bar with HTML, CSS and Javascript
 
 ## Installation
