@@ -9,4 +9,10 @@ Progress bar with HTML, CSS and Javascript
 4. If you want to open through the terminal while in the <code>ProgressBar.co</code> folder install Live server: <code>npm install -g live-server</code>
 5. When it is installed, enter the command live-server in your terminal and it should open the project visually.
 
+## Demo
+
+Falta agregar 
+
+<img src="">
+
 
