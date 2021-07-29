@@ -1,0 +1,24 @@
+body {
+
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+
+.principal {
+
+    border: 1px solid red;
+
+
+
+}
+
+.container1, .container2 {
+    border: 1px solid red;
+    width: 500px;
+    height: 20px;
+}
