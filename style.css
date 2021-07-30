@@ -18,11 +18,12 @@ body {
 }
 
 p {
-    color: #202336;
+    color: white;
+    text-shadow: 1px .1px 1px #006f8a;
 }
 h2 {
     margin: 0;
-    text-shadow: 2px 2px 2px #202426;
+    text-shadow: 2px 2px 2px #202336;
 
 }
 
@@ -36,7 +37,7 @@ h2 {
 
 }
 
-.container1 {
+.container1, .container2 {
 
     background: linear-gradient(317.7deg, rgba(0, 0, 0, 0.4) 0%, rgba(255, 255, 255, 0.4) 105.18%), #E7EBF0;
     background-blend-mode: soft-light, normal;
@@ -47,24 +48,29 @@ h2 {
     border-radius: 18.5px;
 }
 
-.progressBar1 {
+.progressBar1, .progressBar2 {
 
     position: absolute;
     height: 20px;
-    background-color: #30CC2D;
+    background-color: #2485FF;
     border-radius: 10px;
     
 
 }
 
-button {
+.container2 {
+
+    margin-top: 15px;
+
+}
+
+.button1 {
 
     margin-top: 15px;
     width: 80px;
     height: 25px;
     background: linear-gradient(317.7deg, rgba(0, 0, 0, 0.4) 0%, rgba(255, 255, 255, 0.4) 105.18%), #E7EBF0;
     background-blend-mode: soft-light, normal;
-    box-shadow: -5px -5px 10px #FAFBFF, 5px 5px 10px #A6ABBD;
     border-radius: 10px;
     border: 1px solid transparent;
     cursor: pointer;
@@ -77,5 +83,5 @@ button {
 @keyframes progress-animation {
 
     0% {width: 0%;}
-    100%{width: 99.6%;}
+    100%{width: 99.7%;}
 }
