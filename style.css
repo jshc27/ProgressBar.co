@@ -64,7 +64,11 @@ h2 {
 
 }
 
-.button1 {
+button.button2 {
+    margin-top: 37px;
+}
+
+.button1, .button2 {
 
     margin-top: 15px;
     width: 80px;
