@@ -15,11 +15,14 @@ body {
     -o-background-size: cover;
     background-size: cover;
     color: white;
+
 }
 
 p {
+
     color: white;
     text-shadow: 1px .1px 1px #006f8a;
+
 }
 h2 {
     margin: 0;
