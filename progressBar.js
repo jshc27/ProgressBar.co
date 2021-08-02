@@ -3,12 +3,10 @@ const upload = () => {
     progressBar.setAttribute('id', 'play-animation');
 }
 
-function incrementar() {
+function cargar() {
 
-    const progressBar2 = document.querySelector('.progressBar2');
-
-
-
-
+    var  barra = document.getElementById('barra');
+    barra.value +=50;
+    
     console.log('si, incrementa');
 }
