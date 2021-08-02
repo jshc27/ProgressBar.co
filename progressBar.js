@@ -3,6 +3,20 @@ const upload = () => {
     progressBar.setAttribute('id', 'play-animation');
 }
 
+var inicio = 0;
+
+function aumentar() {
+
+    var pb2 = document.getElementById('pb2').value = ++ inicio;
+    console.log('se dio clic');
+}
+
+
+
+
+
+
+
 
 // function move() {
 
