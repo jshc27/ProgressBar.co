@@ -6,7 +6,7 @@ const upload = () => {
 function cargar() {
 
     var  barra = document.getElementById('barra');
-    barra.value +=50;
+    barra.value +=20;
     
     console.log('si, incrementa');
 }
