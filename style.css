@@ -18,10 +18,24 @@ body {
 
 }
 
+a {
+
+    background-color: white;
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    background-color: #cc3d2f;
+    text-decoration: none;
+    color: white;
+
+}
+
 p {
 
-    color: white;
-    text-shadow: 1px .1px 1px #006f8a;
+    color: black;
 
 }
 
@@ -55,7 +69,6 @@ h2 {
 
 .container2 {
 
-    margin-bottom: 15px;
     background: linear-gradient(317.7deg, rgba(0, 0, 0, 0.4) 0%, rgba(255, 255, 255, 0.4) 105.18%), #E7EBF0;
     background-blend-mode: soft-light, normal;
     height: 23px;
