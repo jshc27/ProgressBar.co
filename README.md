@@ -11,8 +11,6 @@ Progress bar with HTML, CSS and Javascript
 
 ## Demo
 
-Falta agregar 
-
 <img src="https://user-images.githubusercontent.com/56690309/128093338-3752cd00-3bcc-4ab6-9826-5b41db8e421d.jpeg">
 
 ## License
